@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -47,9 +47,21 @@ social_media:
   # youtube: your_username
 
 topics:
-    - name: VR
+    - name: Virtual Reality (VR)
       web_url: https://realitylab.uw.edu/
-      image_url: https://realitylab.uw.edu/img/rl-logo-alt.png
+      image_url: https://realitylab.uw.edu/img/rl-logo.png
+
+    - name: Machine Learning (ML)
+      web_url: https://www.coursera.org/learn/machine-learning/
+      image_url: https://www.smartdatacollective.com/wp-content/uploads/2018/11/Machine-learning-1024x682.jpg
+
+    - name: Artificial Intelligence (AI)
+      web_url: https://inst.eecs.berkeley.edu/~cs188/sp19/
+      image_url: https://previews.123rf.com/images/berya113/berya1131805/berya113180500047/100773831-artificial-intelligence-logo-artificial-intelligence-and-machine-learning-concept-vector-symbol-ai-n.jpg
+
+    - name: Computer Vision (CV)
+      web_url: https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv
+      image_url: https://sites.google.com/site/computervision2014pbl/_/rsrc/1395000312121/config/customLogo.gif?revision=3
 #   - name: CSS
 #     web_url: https://github.com/topics/css
 #     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
